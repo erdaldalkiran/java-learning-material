@@ -1,11 +1,13 @@
 # java-learning-material
 
 ## books
+### java
 #### Java: A Beginner's Guide, Eighth Edition
 introduction seviyesinde java ogrenmemizi sagliyor. biraz programlama deneyiminiz varsa hizli okunuyor. keyword'ler nelerdir, dilin sagladigi ozellikler nelerdir sorularina cevap bulabilirsiniz.  
 link: https://www.amazon.com/Java-Beginners-Eighth-Herbert-Schildt/dp/1260440214
 
 ## videos
+### spring
 #### Spring Framework Master Class - Java Spring the Modern Way (udemy)
 spring framework ile ilk tanisma icin idael denilebilir. temel kullanimi ogreniyorsunuz. anlatilan konular bir cok kez tekrar ediliyor. hem iyi hem de kotu. dersi iceriginde su anda kullanilmayan konularda anlatiliyor. ornegin jps gibi. bu kisimlari isterseniz atayalabilirsiniz. bir de dersin cogu konusu 2017'den kalma. cok guncel olmayabilir. spring boot ile biraz daha hasir nesir oldugumda bu yorumu guncelleyebilirim.  
 link: https://www.udemy.com/course/spring-tutorial-for-beginners/
